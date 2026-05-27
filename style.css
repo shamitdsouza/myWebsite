@@ -37,3 +37,16 @@ h1 {
 a {
     color: #CF987E;
   }
+
+ nav {
+    position: fixed;
+    top: 1.5rem;
+    right: 2rem;
+  } 
+  
+  nav a {
+    font-family: Palatino Linotype, serif;
+    font-size: 1rem;
+    color: #f2f0e7;
+    text-decoration: none;
+  }
